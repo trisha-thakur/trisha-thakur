@@ -1,3 +1,10 @@
+<h1 align=center>
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)<br/>
+Hey, I'm Kevin Paul <br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Zealous+Web+Developer+and+Learner+!;)](https://git.io/typing-svg)
+
+</h1>
 <h1 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">  Hi there, I am Trisha Thakur 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;Software+Developer+Intern+at+Teacanalogy;)](https://git.io/typing-svg)-->
 </h1>
