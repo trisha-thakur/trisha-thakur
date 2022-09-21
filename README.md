@@ -1,7 +1,7 @@
 <h1 align=center>
  
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">  Hi there, I am Trisha Thakur <br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Web+Developer+and+Learner;Student+at+SRM+University;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Web+Developer+and+Learner;)](https://git.io/typing-svg)
 
 </h1>
 
