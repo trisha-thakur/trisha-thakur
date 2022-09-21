@@ -1,6 +1,6 @@
-<h1 align="center"><marque><img src="https://cdn-icons-png.flaticon.com/512/599/599527.png" width="25px">  Hi there, I am Trisha Thakur </h1></marque>
+<h1 align="center"><img src="https://cdn-icons-png.flaticon.com/512/599/599527.png" width="25px">  Hi there, I am Trisha Thakur </h1>
 
-<!--<img align="right" alt="GIF" src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=790b76113ec6f004299080f1a0b4518fb9d4cf2a277d4f94&rid=giphy.gif&ct=s" width="310" height="280"/>-->
+<img align="right" alt="GIF" src="https://t3.ftcdn.net/jpg/03/29/36/40/240_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg" width="310" height="280"/>
 
 
 
