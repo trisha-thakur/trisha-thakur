@@ -11,22 +11,21 @@
 
 
 
-- 🌱 I’m currently learning Web3.
-- 🤔 I’m looking for help with Automation.
-- 💬 Ask me about GUI/UX/UI.
-- 📫 How to reach me: srivastava57harsh@gmail.com
-- ⚡ Fun fact: There is no place like 127.0.0.1
+- 🌱 I’m currently learning React js
+- 💬 Ask me about Front end web development
+- 📫 How to reach me: trishathakur304@gmail.com
+
 
 
 
 
 
 ### Reach me out on :
-<!-- [<img align="left" alt="holisitc_developer | LinkedIn" width="29px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />](mailto:prathambhatnagar2803@gmail.com?) -->
+<!-- [<img align="left" alt="holisitc_developer | LinkedIn" width="29px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />](mailto:trishathakur304@gmail.com) -->
 
-[<img align="left" alt="holisitc_developer | LinkedIn" width="29px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/harsh-srivastava-65649a17a/)
+[<img align="left" alt="holisitc_developer | LinkedIn" width="29px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/trisha-sharan-t-549739222)
 
-[<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />](https://www.instagram.com/_harsh_bts_srivastava_/)
+[<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />](https://www.instagram.com/trisha.tkr)
 <br />
 
 ### Languages and Tools:
@@ -36,7 +35,6 @@
 [<img align="left" alt="SCSS" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>](https://sass-lang.com)
 [<img align="left" alt="SCSS" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"/>](https://tailwindcss.com/)
 [<img align="left" alt="JavaScript" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>](https://javascript.com/)
-[<img align="left" alt="Typescript" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org//)
 [<img align="left" alt="React" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>](https://www.reactjs.org//)
 [<img align="left" alt="Nodejs" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>](https://www.nodejs.org//) 
 [<img align="left" alt="CSS3" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://en.wikipedia.org/wiki/CSS)
