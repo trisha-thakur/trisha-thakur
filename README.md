@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I am Trisha Thakur </h1>
+<h1 align="center">Hi there, I am Trisha Thakur </h1>
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px"> -->
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=790b76113ec6f004299080f1a0b4518fb9d4cf2a277d4f94&rid=giphy.gif&ct=s" width="310" height="280"/>
 
@@ -21,7 +21,7 @@
 
 
 ### Reach me out on :
-<!-- [<img align="left" alt="holisitc_developer | LinkedIn" width="29px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />](mailto:trishathakur304@gmail.com) -->
+[<img align="left" alt="holisitc_developer | LinkedIn" width="29px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />](mailto:trishathakur304@gmail.com) 
 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="29px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/trisha-sharan-t-549739222)
 
