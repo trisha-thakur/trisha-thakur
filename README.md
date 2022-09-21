@@ -1,5 +1,7 @@
-<h1 align="center"><img src="https://cdn-icons-png.flaticon.com/512/599/599527.png" width="25px">  Hi there, I am Trisha Thakur </h1>
+<h1 align="center"><img src="https://cdn-icons-png.flaticon.com/512/599/599527.png" width="25px">  Hi there, I am Trisha Thakur 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;Software+Developer+Intern+at+Teacanalogy;)](https://git.io/typing-svg)
+</h1>
+
 
 <!--<img align="right" alt="GIF" src="https://img.freepik.com/free-vector/freelancer-working-laptop-her-house_1150-35054.jpg?w=740&t=st=1663748593~exp=1663749193~hmac=382f50b696634526253c095e849cf982f3639043076db1315ec0c32a201ef921" width="310" height="280"/>-->
 
