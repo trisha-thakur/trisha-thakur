@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://cdn-icons-png.flaticon.com/512/599/599527.png" width="25px"> Hi there, I am Trisha Thakur </h1>
+<h1 align="center"><img src="https://cdn-icons-png.flaticon.com/512/599/599527.png" width="25px">  Hi there, I am Trisha Thakur </h1>
 
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=790b76113ec6f004299080f1a0b4518fb9d4cf2a277d4f94&rid=giphy.gif&ct=s" width="310" height="280"/>
 
@@ -32,7 +32,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/download)
 [<img align="left" alt="HTML5" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://html.com/)
-[<img align="left" alt="SCSS" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>](https://sass-lang.com)
+<!--[<img align="left" alt="SCSS" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>](https://sass-lang.com)-->
 [<img align="left" alt="SCSS" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"/>](https://tailwindcss.com/)
 [<img align="left" alt="JavaScript" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>](https://javascript.com/)
 [<img align="left" alt="React" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>](https://www.reactjs.org//)
